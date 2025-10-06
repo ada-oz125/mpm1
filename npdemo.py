@@ -19,6 +19,8 @@ def pip4x(x):
 print (pip3x(2))
 print (pip3x(2.5))
 
+def pip7x(x):
+    return None
 def pip6x(x):
     return np.pi*4 + x  
 def pip5x(x):
