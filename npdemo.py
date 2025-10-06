@@ -13,6 +13,9 @@ print (pip2x(2))
 def pip3x(x):
     return np.pi + x*3
 
+def pip4x(x):
+    return np.pi + x*4
+
 print (pip3x(2))
 print (pip3x(2.5))
 
