@@ -19,7 +19,7 @@ def pip4x(x):
 print (pip3x(2))
 print (pip3x(2.5))
 
-def pip4x(x):
+def pip7x(x):
     return np.pi*4 + x  
 def pip5x(x):
     return np.pi*5 + x
